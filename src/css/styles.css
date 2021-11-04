@@ -1,0 +1,44 @@
+body {
+    height: 1500px;
+    margin: 10px;
+}
+   
+    
+ .logo{
+     width: 25%;
+     cursor: pointer;
+ }  
+
+li {
+    color: grey;
+    padding: 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+    width: 130px;
+}
+
+.navegador{
+    width: 98%;
+    height: 100px; 
+    padding: 20px; 
+}
+
+nav {
+    width: 98%;
+    text-align: center;
+}
+div {
+    display: inline-block;
+    padding: 50px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.pie {
+    display: inline-block;
+    padding: 50px;
+    font-size: 13px;
+}
+
